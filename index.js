@@ -31,7 +31,7 @@ export default class Toast extends Component {
     this.state = {
       isShow: false,
       text: "",
-      opacityValue: new Animated.Value(this.props.opacity)
+      opacityValue: new Animated.Value(0)
     };
   }
 
