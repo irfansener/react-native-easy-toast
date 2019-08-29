@@ -20,7 +20,7 @@ A react native module to show toast like android, it works on iOS and Android.
 
 ## Installation
 
-* 1.Run `npm i react-native-easy-toast --save`
+* 1.Run `npm i irfansener/react-native-easy-toast --save`
 * 2.`import Toast, {DURATION} from 'react-native-easy-toast'`    
 
 ## Demo  
